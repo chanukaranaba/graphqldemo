@@ -15,7 +15,7 @@
 // under the License.
 
 import ballerina/graphql;
-import snowtooth.datasource as ds;
+import graphqldemo_two.datasource as ds;
 
 type SearchResult Lift|Trail;
 

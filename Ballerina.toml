@@ -6,4 +6,3 @@
   export = ["graphqldemo_two"]
   name = "graphqldemo_two"
   org = "chanukadissanayake"
-

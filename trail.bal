@@ -14,7 +14,7 @@
 // specific language governing permissions and limitations
 // under the License.
 
-import snowtooth.datasource as ds;
+import graphqldemo_two.datasource as ds;
 
 # A `Trail` is a run at a ski resort
 distinct isolated service class Trail {

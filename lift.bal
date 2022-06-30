@@ -14,7 +14,7 @@
 // specific language governing permissions and limitations
 // under the License.
 
-import snowtooth.datasource as ds;
+import graphqldemo_two.datasource as ds;
 
 # A `Lift` is a chairlift, gondola, tram, funicular, pulley, rope tow, or other means of ascending a mountain.
 distinct isolated service class Lift {
